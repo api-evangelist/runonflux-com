@@ -1,4 +1,4 @@
-# runonflux-com
+# Flux
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-runonflux-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://runonflux.com/
+Flux is a decentralized cloud computing platform that provides a globally distributed network of user‑operated nodes for scalable, censorship‑resistant compute. It offers services such as FluxCloud, FluxNodes, and FluxAI, enabling developers to deploy applications, rent GPU resources, and run blockchain validators. The platform emphasizes low‑cost, high‑availability infrastructure across 66+ countries, with extensive documentation and community support.
+
+**Areas:** Decentralized · Cloud Computing · Web3 · Infrastructure · Open Source
+
+## Flux on APIs.io
+
+Everything profiled for Flux is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/runonflux-com/](https://apis.io/providers/runonflux-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [Flux Apps API](https://apis.io/apis/runonflux-com/runonflux-com-apps-api/) — **Decentralized Application Management** Comprehensive endpoints for deploying, managing, and monitoring decentralized applications (dApps) on the Flux…
+- [Flux Arcane OS API](https://apis.io/apis/runonflux-com/runonflux-com-arcaneos-api/) — **Hardened Node Operating System** Endpoints exposed only by nodes running ArcaneOS, the hardened FluxOS appliance image. They cover attested configuration…
+- [Flux Authentication API](https://apis.io/apis/runonflux-com/runonflux-com-authentication-api/) — **Authentication & Authorization Endpoints** Essential API endpoints for secure authentication and authorization with the Flux network. These endpoints…
+- [Flux Backup/Restore API](https://apis.io/apis/runonflux-com/runonflux-com-backup-restore-api/) — **Application Backup & Recovery** Comprehensive backup and disaster recovery endpoints for Flux applications and data. These APIs provide automated backup…
+- [Flux Benchmark API](https://apis.io/apis/runonflux-com/runonflux-com-benchmark-api/) — **Node Performance & Benchmarking** Endpoints for monitoring and managing Flux node performance benchmarks. These APIs provide access to hardware…
+- [Flux Daemon API](https://apis.io/apis/runonflux-com/runonflux-com-daemon-api/) — **Flux Daemon Operations** Core blockchain daemon endpoints for interacting with the underlying Flux blockchain node. These endpoints provide access to…
+- [Flux Explorer API](https://apis.io/apis/runonflux-com/runonflux-com-explorer-api/) — **Blockchain Explorer Services** Blockchain exploration endpoints providing detailed access to on-chain data, transaction history, address information, and…
+- [Flux Flux API](https://apis.io/apis/runonflux-com/runonflux-com-flux-api/) — **Flux Network Operations** Core network endpoints for interacting with the broader Flux decentralized network. These APIs provide access to network…
+- [Flux Fluxshare API](https://apis.io/apis/runonflux-com/runonflux-com-fluxshare-api/) — **Decentralized File Sharing** Advanced file sharing and storage endpoints built on the Flux decentralized network. FluxShare provides secure, distributed…
+- [Flux ID API](https://apis.io/apis/runonflux-com/runonflux-com-id-api/) — **Identity & User Management** Comprehensive identity management endpoints that handle user authentication, authorization levels, and identity verification…
+- [Flux IO Utils API](https://apis.io/apis/runonflux-com/runonflux-com-ioutils-api/) — **File System Operations & Utilities** Low-level file system operation endpoints providing essential I/O utilities for application development and system…
+- [Flux Payments API](https://apis.io/apis/runonflux-com/runonflux-com-payments-api/) — **Wallet Payment Callbacks** A rendezvous between a web page and a wallet it opens. The page mints a payment id on a node, listens on that node's…
+- [Flux Syncthing API](https://apis.io/apis/runonflux-com/runonflux-com-syncthing-api/) — **Distributed File Synchronization** Endpoints for managing Syncthing-based distributed file synchronization services. These APIs enable secure,…
+- [Flux Volume Browser API](https://apis.io/apis/runonflux-com/runonflux-com-volume-browser-api/) — **Persistent Storage Management** Advanced volume and persistent storage management endpoints for containerized applications. These APIs provide…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Flux Agentic Access](https://apis.io/agentic-access/runonflux-com/runonflux-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [appname](https://apis.io/schemas/runonflux-com/runonflux-com-appname/)
+- [appspecification](https://apis.io/schemas/runonflux-com/runonflux-com-appspecification/)
+- [containerinfo](https://apis.io/schemas/runonflux-com/runonflux-com-containerinfo/)
+- [fluxnodestatus](https://apis.io/schemas/runonflux-com/runonflux-com-fluxnodestatus/)
+- [getbenchmarks](https://apis.io/schemas/runonflux-com/runonflux-com-getbenchmarks/)
+- [operation](https://apis.io/schemas/runonflux-com/runonflux-com-operation/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Runonflux Com Context](https://apis.io/jsonld/runonflux-com/runonflux-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Flux API Rules](https://apis.io/rules/runonflux-com/runonflux-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Flux Authentication](https://apis.io/security/runonflux-com/runonflux-com-authentication/)
+- [Flux Domain Security](https://apis.io/security/runonflux-com/runonflux-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://runonflux.com/)
+- [Documentation](https://docs.runonflux.com/)
+- [Getting started](https://docs.runonflux.com/fluxcloud/register-new-app/custom-domain-setup)
+- [Blog](https://runonflux.com/blog/)
+- [Terms of service](https://runonflux.com/terms-of-service/)
+- [Privacy policy](https://runonflux.com/privacy-policy/)
+- [GitHub](https://github.com/runonflux)
+- [Status](https://status.runonflux.com/status/all)
+
+## API Evangelist rating
+
+**Kin Score 47.7** — developing · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 59.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 49.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | platform (partial credit) |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/runonflux-com/](https://apis.io/providers/runonflux-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Flux: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/runonflux-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
